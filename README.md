@@ -19,7 +19,7 @@ Welcome to our __Machine Learning__ reposetory! Here you will find various proje
 
 
 <p align="center">
-  <img src="readme_imgs/regularized_linear_regression.png" width="400" />
+  <img src="readme_imgs/regularized_linear_regression.png" width="410" />
   <img src="readme_imgs/best_cross-validated_fit.png" width="400" />
 </p>
 
@@ -113,7 +113,8 @@ Welcome to our __Machine Learning__ reposetory! Here you will find various proje
 #### Part 2: Support Vector Machines
 
 <p align="center">
-  <img src="readme_imgs/svm.png" width="700" />
+  <img src="readme_imgs/svm_1.png" width="350" />
+  <img src="readme_imgs/svm_2.png" width="350" />
 </p>
 <p align="center">
     Support Vector Machines.
