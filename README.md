@@ -104,7 +104,7 @@ Welcome to our __Machine Learning__ reposetory! Here you will find various proje
 #### Part 1: Gaussian Processes
 
 <p align="center">
-  <img src="readme_imgs/GP.png" width="700" />
+  <img src="readme_imgs/gp.png" width="700" />
 </p>
 <p align="center">
     Gaussian Processes.
@@ -113,7 +113,7 @@ Welcome to our __Machine Learning__ reposetory! Here you will find various proje
 #### Part 2: Support Vector Machines
 
 <p align="center">
-  <img src="readme_imgs/SVM.png" width="700" />
+  <img src="readme_imgs/svm.png" width="700" />
 </p>
 <p align="center">
     Support Vector Machines.
