@@ -1,0 +1,9 @@
+name: ml2labs
+channels:
+- defaults
+dependencies:
+- jupyter=1.0.0
+- matplotlib=2.2.2
+- numpy=1.14.2
+- python=3.6.4
+- scipy=1.0.0
